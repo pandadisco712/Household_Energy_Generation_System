@@ -122,8 +122,8 @@ This system shows how everyday motion in homes can be transformed into usable en
 ## Contributors
 
 - Shivani Shankar  
+- Aditi Pujar
 - Shravya Hebbar  
-- Human Nvm  
 
 ---
 
