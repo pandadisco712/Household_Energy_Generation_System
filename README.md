@@ -86,14 +86,6 @@ Refer to `hardware_setup.md` for detailed wiring and connections.
 - Interactive and educational  
 - Scalable concept  
 
----
-
-## Limitations
-
-- Low power output at small scale  
-- Cannot power high-energy appliances directly  
-- Efficiency depends on speed and load  
-- Requires storage systems for real-world use  
 
 ---
 
