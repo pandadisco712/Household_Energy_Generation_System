@@ -113,9 +113,9 @@ This system shows how everyday motion in homes can be transformed into usable en
 
 ## Contributors
 
-- Shivani Shankar  
+- Shravya Hebbar
 - Aditi Pujar
-- Shravya Hebbar  
+- Shivani Shankar
 
 ---
 
