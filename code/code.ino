@@ -39,7 +39,7 @@ void setup() {
 
 void loop() {
 
-  // 🔘 BUTTON TOGGLE
+  //BUTTON TOGGLE
   int reading = digitalRead(buttonPin);
 
   if (reading != lastButtonState) {
@@ -58,11 +58,11 @@ void loop() {
 
   lastButtonState = reading;
 
-  // 🎚️ READ POTENTIOMETER
+  //READ POTENTIOMETER
   int potValue = analogRead(potPin);
   int speedValue = map(potValue, 0, 1023, 0, 255);
 
-  // 🟢 MOTOR ON (INPUT ENERGY)
+  //MOTOR ON (INPUT ENERGY)
   if (motorState == 1) {
 
     digitalWrite(IN1, HIGH);
@@ -78,7 +78,7 @@ void loop() {
     lcd.print("   ");
   }
 
-  // 🔴 MOTOR OFF (RECOVERY)
+  //MOTOR OFF (RECOVERY)
   else {
 
     digitalWrite(IN1, LOW);
